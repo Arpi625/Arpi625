@@ -1,7 +1,10 @@
 # 💫 About Me:
-🔭 I'm currently working on	Developing a full-stack web application using React and Node.js to manage personal finance/notes.<br>👯‍♀️ I'm looking to collaborate on	Open-source projects related to data visualization or contributing to documentation for popular libraries.<br>💛 I'm looking for help with	Mastering advanced state management patterns (like Redux Toolkit) in large React applications.<br>🌱 I'm currently learning	Go (Golang) for backend services and exploring containerization with Docker and Kubernetes.<br>💬 Ask me about	JavaScript, Python, Web Development, or my experience with various databases (PostgreSQL, MongoDB).<br>⚡ Fun fact	I can solve a Rubik's Cube in under 90 seconds!
-
-
+🔭 Currently building a full‑stack web application 
+👯 Open to collaborating on innovative web projects 
+🤝 Seeking assistance with [specific tech / area, e.g. “cloud deployment” / “frontend design”]  
+🌱 Learning [technology / skill, e.g. “React & TypeScript”]  
+💬 Feel free to ask me about [topics you’re happy to discuss — e.g. “coding tips, web development or my coding          journey ”]  
+⚡ Fun fact: I can whistle classical tunes 🎶
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-maurya-473b65279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryaarpita372@gmail.com) 
 
