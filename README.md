@@ -3,7 +3,7 @@
 <br>👯 Open to collaborating on innovative web projects 
 <br>🤝 Seeking assistance with [specific tech / area, e.g. “cloud deployment” / “frontend design”]  
 🌱 Learning [technology / skill, e.g. “React & TypeScript”]  
-💬 Feel free to ask me about [topics you’re happy to discuss — e.g. “coding tips, web development or my coding                                                                                                            journey ”]  
+💬 Feel free to ask me about [topics you’re happy to discuss — e.g. “coding tips, web development or my coding                                                                                                                journey ”]  
 ⚡ Fun fact: I can whistle classical tunes 🎶
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-maurya-473b65279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryaarpita372@gmail.com) 
