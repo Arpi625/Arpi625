@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 Currently building a full‑stack web application 
 👯 Open to collaborating on innovative web projects 
-🤝 Seeking assistance with [specific tech / area, e.g. “cloud deployment” / “frontend design”]  
+ 🤝 Seeking assistance with [specific tech / area, e.g. “cloud deployment” / “frontend design”]  
 🌱 Learning [technology / skill, e.g. “React & TypeScript”]  
 💬 Feel free to ask me about [topics you’re happy to discuss — e.g. “coding tips, web development or my coding          journey ”]  
 ⚡ Fun fact: I can whistle classical tunes 🎶
