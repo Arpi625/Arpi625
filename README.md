@@ -3,7 +3,7 @@
 👯 Open to collaborating on **innovative web projects**.<br>
 🌱 Currently learning **DSA, Spring Framework, and DevOps**.<br>
 💬 Feel free to ask me about **coding tips, web development, or my coding journey** — I’m always happy to share and help!<br>
-⚡ Fun fact: I can whistle **classical tunes** 🎶       
+⚡ Fun fact: I can whistle **classical tunes** 🎶        
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpita-maurya-473b65279) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mauryaarpita372@gmail.com) 
