@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently building a **full-stack web application**.<br>
+🔭 Currently building a **full-stack web application**.<br> 
 👯 Open to collaborating on **innovative web projects**.<br>
 🌱 Currently learning **DSA, Spring Framework, and DevOps**.<br>
 💬 Feel free to ask me about **coding tips, web development, or my coding journey** — I’m always happy to share and help!<br>
